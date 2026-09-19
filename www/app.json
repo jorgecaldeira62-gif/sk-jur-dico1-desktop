@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "SK Jurídico",
+    "slug": "appapk",
+    "version": "1.0.0",
+    "owner": "maikonraquel",
+    "orientation": "portrait",
+    "backgroundColor": "#1e40af",
+    "android": {
+      "package": "br.com.maikoncaldeira.assistentejuridico",
+      "versionCode": 3
+    },
+    "plugins": ["./plugins/withCopyWww"],
+    "extra": { "eas": { "projectId": "8239f096-0bf2-4c79-a3b8-b8dbc5c57d2c" } }
+  }
+}
